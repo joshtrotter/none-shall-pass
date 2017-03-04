@@ -1,4 +1,4 @@
-# none-shall-pass
+# None Shall Pass
 
 A mobile top down action RPG / siege defence game using gesture based spells & abilities.
 
